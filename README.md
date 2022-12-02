@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Type 'npm i' in the VS code terminal to download the node modules. Type 'npm start' to run the app on the browser
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
